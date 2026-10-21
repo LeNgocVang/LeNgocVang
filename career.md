@@ -61,9 +61,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Xây dựng 01 dự án Web API cá nhân: Lập trình một ứng dụng backend (bằng Python/FastAPI hoặc Java/Spring Boot) tích hợp cơ sở dữ liệu PostgreSQL, đẩy toàn bộ mã nguồn lên GitHub công khai và hoàn thành trước ngày 15 tháng sau.
+2. Luyện tập Giải thuật & Cấu trúc dữ liệu: Hoàn thành giải ít nhất 30 bài tập lập trình trên LeetCode/HackerRank (mức độ Easy & Medium) và ghi chép lại tư duy tối ưu thuật toán trước ngày 25 tháng sau
+3. Chuẩn bị hồ sơ ứng tuyển Thực tập: Hoàn thiện CV cá nhân chuẩn ATS cho ngành Software Engineer, viết bài giới thiệu dự án trên LinkedIn và gửi hồ sơ đăng ký thực tập/fresher tới ít nhất 3 công ty công nghệ trước ngày 30 tháng sau.
 
 Cụ thể tới mức tháng sau kiểm được.
 
