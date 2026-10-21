@@ -17,9 +17,9 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | … | … | … |
-| 1 | … | … | … |
-| 2 | … | … | … |
+| 1 | POL101 | Triết học Mác - Lênin | 3 |
+| 1 | CS101 | Nhập môn Khoa học Máy tính | 3 |
+| 2 | ENG102 | Tiếng Anh chuyên ngành 2 | 3 |
 
 ### Năm hai
 
