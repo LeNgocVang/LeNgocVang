@@ -52,9 +52,12 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Dữ liệu vị trí được thu thập dưới dạng mã hóa/ẩn danh để phục vụ cải thiện trải nghiệm người dùng, không vi phạm trực tiếp các điều khoản phạt nặng ngay lập tức, và chính sách riêng tư có thể cập nhật bổ sung sau ở bản phát hành tiếp theo để đảm bảo kịp tiến độ bàn giao sản phẩm cho đối tác.
+- Phía người dùng lập luận rằng: Thu thập vị trí là hành vi xâm phạm nghiêm trọng quyền riêng tư cá nhân khi chưa được thông báo và chưa có sự đồng ý (Opt-in Consent). Việc này vi phạm tính minh bạch dữ liệu và gây nguy cơ rò rỉ thông tin lịch sử di chuyển nhạy cảm.
+- **Quyết định của tôi**, và vì sao: Tôi từ chối đẩy đoạn mã (code) thu thập vị trí này lên bản phát hành chính thức (Production) khi chưa có thông báo quyền riêng tư. Tôi đề xuất 2 giải pháp cho quản lý:
+- 1 Tạm thời tắt (disable) tính năng thu thập vị trí để tiến hành phát hành sản phẩm đúng hạn ngày mai.
+- 2 Bổ sung ngay cửa sổ bật lên (Pop-up) xin phép người dùng kèm liên kết cập nhật Điều khoản riêng tư trước khi bật tính năng thu thập.
+- Trong đạo đức nghề nghiệp CNTT/Khoa học máy tính (theo chuẩn ACM/IEEE Ethics), bảo vệ dữ liệu và tôn trọng quyền riêng tư người dùng là nguyên tắc tối thượng. Việc thu thập ngầm dữ liệu vị trí không chỉ vi phạm quy định pháp lý về bảo vệ dữ liệu cá nhân (như Nghị định 13/2023/NĐ-CP hay GDPR) mà còn đe dọa trực tiếp đến uy tín lâu dài và rủi ro pháp lý lớn cho công ty nếu bị phát giác.
 
 ## Ba việc tôi làm trong học kỳ này
 
