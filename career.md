@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | FPT Software | Kỹ sư Phát triển Phần mềm (Fresher) | [https://career.fpt-software.com/job/software-engineer](https://career.fpt-software.com/job/software-engineer) | 20/10/2026 |
+| 2 | VNG Corporation | Backend Software Engineer | [https://vng.com.vn/careers/job/backend-engineer](https://vng.com.vn/careers/job/backend-engineer) | 20/10/2026 |
+| 3 | Tập đoàn Viettel | Kỹ sư Phần mềm | [https://tuyendung.viettel.vn/job/ky-su-phan-mem](https://tuyendung.viettel.vn/job/ky-su-phan-mem) | 20/10/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
