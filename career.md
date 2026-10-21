@@ -19,8 +19,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 (FPT Software) | Tin 2 (VNG Corporation) | Tin 3 (Tập đoàn Viettel) | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
+| Kiến thức | Tốt nghiệp Cử nhân ngành Khoa học máy tính / CNTT. | Tốt nghiệp Đại học ngành Khoa học máy tính hoặc tương đương. | Tốt nghiệp chuyên ngành Khoa học máy tính / CNTT. | chưa / một phần / rồi |
+| Kỹ năng | Nắm vững Cấu trúc dữ liệu & Giải thuật. | Kiến thức về Hệ điều hành, Mạng máy tính. | Kiến thức về quy trình phát triển phần mềm Agile/Scrum. | … |
 | Thái độ | … | … | … | … |
 | Công cụ | … | … | … | … |
 
