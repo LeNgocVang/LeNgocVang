@@ -39,7 +39,7 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | CS401 | Thị giác máy tính / Xử lý Ngôn ngữ Tự nhiên (Môn chuyên sâu) | … |
+| 7 | CS401 | Thị giác máy tính / Xử lý Ngôn ngữ Tự nhiên (Môn chuyên sâu) | 3 |
 | 8 | CAP401 | Khóa luận tốt nghiệp (Giai đoạn 1) | 6 |
 
 **Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
