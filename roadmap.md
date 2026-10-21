@@ -47,9 +47,9 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
-- Môn … phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ 5, vì sinh viên vừa bước vào chuyên ngành sâu với các môn đòi hỏi tư duy cao như Trí tuệ Nhân tạo, Lập trình Di động, đồng thời phải bắt đầu làm Đồ án Cơ sở ngành.
+- Môn Nhập môn Lập trình / Kỹ thuật Lập trình (C/C++) phải học trước môn cấu trúc Dữ liệu & Giải thuật và Cơ sở Dữ liệu vì sinh viên cần nắm vững tư duy logic lập trình, cú pháp và kỹ năng quản lý bộ nhớ cơ bản trước khi tổ chức dữ liệu phức tạp.
+7 Kỳ 8 tôi để nhẹ vì vì giai đoạn này sinh viên cần dành phần lớn thời gian đi Thực tập Tốt nghiệp full-time tại doanh nghiệp và tập trung làm Khóa luận Tốt nghiệp
 
 ## Hai chỗ AI nói sai
 
