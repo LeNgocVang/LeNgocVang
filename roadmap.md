@@ -25,22 +25,22 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 3 | … | … | … |
-| 4 | … | … | … |
+| 3 | CS202 | Kiến trúc máy tính & Hợp ngữ | 3 |
+| 4 | CS204 | Phân tích & Thiết kế Giải thuật | 3 |
 
 ### Năm ba
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 5 | … | … | … |
-| 6 | … | … | … |
+| 5 | CS301 | Nhập môn Trí tuệ Nhân tạo (AI) | 3 |
+| 6 | PRJ301 | Đồ án Chuyên ngành KHMT | 3 |
 
 ### Năm tư
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | … | … | … |
-| 8 | … | … | … |
+| 7 | CS401 | Thị giác máy tính / Xử lý Ngôn ngữ Tự nhiên (Môn chuyên sâu) | … |
+| 8 | CAP401 | Khóa luận tốt nghiệp (Giai đoạn 1) | 6 |
 
 **Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
