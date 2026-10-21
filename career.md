@@ -17,7 +17,7 @@ Vì sao: …Vì sao: Tôi có niềm yêu thích với tư duy logic và việc 
 
 Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
 
-| Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
+| Lớp | Tin 1 (FPT Software) | Tin 2 (VNG Corporation) | Tin 3 (Tập đoàn Viettel) | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | … | … | … | chưa / một phần / rồi |
 | Kỹ năng | … | … | … | … |
