@@ -55,21 +55,21 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Đưa các môn chuyên ngành nâng cao như Trí tuệ Nhân tạo (AI) và Học máy (Machine Learning) vào ngay Học kỳ 1 và Học kỳ 2 ở Năm nhất.
+- Bảng chương trình đào tạo thật ra ghi: Môn AI và Học máy đòi hỏi các môn tiên quyết về Toán cao cấp, Đại số tuyến tính, Xác suất Thống kê và Kỹ thuật Lập trình (học ở Năm 1 và Năm 2).
+- Tôi sửa thành: Xếp môn Trí tuệ Nhân tạo vào Học kỳ 5 và môn Học máy vào Học kỳ 6.
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Xếp lịch học môn Thực tập Doanh nghiệp (Internship) học song song với 5 môn lý thuyết nặng ngay ở Học kỳ 4 (Năm hai).   
+- Bảng chương trình đào tạo thật ra ghi: Thực tập doanh nghiệp yêu cầu sinh viên tích lũy đủ số tín chỉ nền tảng cơ sở ngành và được bố trí tập trung vào Học kỳ 7 (Năm tư).
+- Tôi sửa thành: Chuyển môn Thực tập Tốt nghiệp / Doanh nghiệp sang Học kỳ 7.
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Nhập yêu cầu (prompt) để AI đề xuất lộ trình 8 học kỳ cho ngành Khoa học Máy tính dựa trên mục tiêu nghề nghiệp |
+| **Hoài** | Đặt sự hoài nghi, So sánh kết quả AI tạo ra với Khung chương trình đào tạo chuẩn của Khoa CNTT HUTECH để tìm lỗi sai |
+| **Học** | Tìm hiểu nguyên lý môn tiên quyết (Toán & Lập trình cơ bản phải học trước Đồ án & Chuyên ngành) để phân bổ hợp lý |
+| **Hành** | Tự tay tinh chỉnh lại toàn bộ kế hoạch 8 học kỳ hoàn chỉnh và viết phần phản biện giải trình cho bài tập |
