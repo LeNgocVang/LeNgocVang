@@ -19,11 +19,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 (FPT Software) | Tin 2 (VNG Corporation) | Tin 3 (Tập đoàn Viettel) | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Tốt nghiệp Cử nhân ngành Khoa học máy tính / CNTT.
-Nắm vững Cấu trúc dữ liệu & Giải thuật.| Tốt nghiệp Đại học ngành Khoa học máy tính hoặc tương đương. | Tốt nghiệp chuyên ngành Khoa học máy tính / CNTT. | chưa / một phần / rồi |
-| Kỹ năng | . | . | . | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | Tốt nghiệp Cử nhân ngành Khoa học máy tính / CNTT.| Tốt nghiệp Đại học ngành Khoa học máy tính hoặc tương đương. | Tốt nghiệp chuyên ngành Khoa học máy tính / CNTT. | chưa / một phần / rồi |
+| Kỹ năng | Lập trình thành thạo Java hoặc Python. | Lập trình Golang/Java/C++. | Lập trình Python hoặc C#. | … |
+| Thái độ | Ham học hỏi, chủ động cập nhật công nghệ mới | Tự giác, cẩn thận, tỉ mỉ. | Trung thực, kiên trì. | … |
+| Công cụ | Git, VS Code, Eclipse, MySQL. | Docker, Postman, PostgreSQL, Redis, Git, Jira. | Git, Jenkins, SQL Server, Docker, Visual Studio. | … |
 
 ## Ba tin tuyển dụng
 
