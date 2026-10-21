@@ -71,9 +71,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Cung cấp hình ảnh đề bài và yêu cầu AI hỗ trợ phân tích, tổng hợp thông tin ngành Khoa học máy tính (vị trí Kỹ sư Phần mềm); đóng vai trò gợi ý khung nội dung trích xuất từ tin tuyển dụng, tình huống đạo đức CNTT và mục tiêu học tập. |
+| **Hoài** | Đặt nghi vấn và đối chiếu lại toàn bộ thông tin AI phản hồi với 3 bài đăng tuyển dụng gốc; chủ động tìm kiếm và bắt lỗi những chi tiết AI tự suy đoán hoặc bịa thêm không đúng với thực tế (như yêu cầu số năm kinh nghiệm hay công cụ nâng cao cho vị trí Fresher).    |
+| **Học** | Hiểu rõ cấu trúc phân loại năng lực nghề nghiệp (Kiến thức, Kỹ năng, Thái độ, Công cụ); học cách phân tích một tình huống đạo đức trong công nghệ thông tin (vi phạm quyền riêng tư dữ liệu người dùng) theo chuẩn mực nghề nghiệp. |
+| **Hành** | Tự tay kiểm tra, loại bỏ các chi tiết suy đoán sai lệch của AI, điền chính xác đường dẫn/thông tin thực tế, tinh chỉnh các mục tiêu hành động đo lường được cho học kỳ và hoàn thiện bài làm đúng yêu cầu. |
 
 Công cụ đã dùng: …
