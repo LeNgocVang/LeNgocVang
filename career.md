@@ -9,9 +9,9 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
+…Kỹ sư Phát triển Phần mềm (Software Engineer)
 
-Vì sao: …
+Vì sao: …Vì sao: Tôi có niềm yêu thích với tư duy logic và việc xây dựng các ứng dụng phần mềm giải quyết các vấn đề thực tế. Ngành Khoa học máy tính mang lại môi trường làm việc sáng tạo, khả năng phát triển bản thân liên tục và cơ hội nghề nghiệp rộng mở
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
