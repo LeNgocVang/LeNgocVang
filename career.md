@@ -38,9 +38,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: yêu cầu có 3 năm kinh nghiệm thực tế triển khai hệ thống phân tán và kiến trúc Microservices cho vị trí Fresher Kỹ sư Phần mềm.
+- Tin tuyển dụng thật ra viết: Ưu tiên ứng viên có kiến thức nền tảng hoặc bài tập lớn/đồ án môn học về kiến trúc Microservices.
+- Tôi sửa thành: Có kiến thức cơ bản hoặc từng làm bài tập lớn/đồ án liên quan đến kiến trúc Microservices
 
 **Chỗ thứ hai**
 
