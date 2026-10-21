@@ -44,9 +44,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: Thành thạo tất cả các công cụ DevOps bao gồm Kubernetes, Terraform, Ansible, Jenkins, CI/CD và Cloud (AWS/GCP).
+- Tin tuyển dụng thật ra viết: Biết sử dụng cơ bản công cụ quản lý mã nguồn Git và hiểu khái niệm đóng gói ứng dụng với Docker.
+- Tôi sửa thành: Sử dụng cơ bản công cụ Git và hiểu khái niệm Docker.
 
 ## Một quyết định đạo đức
 
