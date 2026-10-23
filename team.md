@@ -138,21 +138,41 @@ Sau cuộc họp: thư ký ghi lại các quyết định quan trọng để m�
 
 Mỗi cuộc họp không nên dành quá nhiều thời gian để kể lại những việc đã làm. Trọng tâm là việc gì đang bị kẹt và cần giải quyết như thế nào.
 
-*Người viết phần này: …*
+*Người viết phần này: Hoàng Dương*
 
 ## 4. Khi một người mất tích
 
-…
+Trong lúc làm bài, đôi khi có thành viên bận việc cá nhân nên không phản hồi tin nhắn hoặc chưa làm phần được giao. Khi một người không phản hồi, nhóm thống nhất xử lý như sau:
 
-*Người viết phần này: …*
+Bước 1: Nhắn riêng hỏi xem bạn đó có gặp vấn đề gì không.
+Bước 2: Nếu chưa trả lời thì nhắc lại trong nhóm và hỏi thời gian có thể hoàn thành.
+Bước 3: Nếu deadline gần mà phần việc vẫn chưa được làm, nhóm sẽ chủ động chia phần đó cho thành viên khác để bài không bị trễ. 
+Bước 4: Khi bạn đó quay lại, cả nhóm trao đổi lại để thống nhất cách làm tiếp theo. 
+
+Quan trọng là không nên ngay lập tức trách bạn đó. Trước tiên cần biết lý do và tìm cách giải quyết để công việc chung không bị ảnh hưởng.
+
+*Người viết phần này: Ngọc Vàng*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
-…
+Khi có bất đồng, mỗi người được trình bày lý do và đưa ra bằng chứng nếu có. Nhóm ưu tiên quyết định dựa sau:  
+Mục tiêu,Yêu cầu của đề bài.  
+Thời gian và nguồn lực thực tế.   
+Chất lượng của phương án. 
+Nếu vẫn không thống nhất sau khi thảo luận, nhóm sẽ bỏ phiếu. Quyết định được đa số chấp nhận và mọi người cùng thực hiện. Người điều phối hoặc trưởng nhóm có trách nhiệm chốt quyết định cuối cùng khi nhóm không thể thống nhất. Quan điểm cá nhân có thể khác nhau, nhưng sau khi đã thống nhất, mọi thành viên cần cùng chịu trách nhiệm với quyết định chung.
 
-*Người viết phần này: …*
+*Người viết phần này: Khánh Chi*
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
+Nhóm tôi chủ yếu cãi nhau về việc phân chia công việc và tiến độ làm bài. Ban đầu vì mọi người đều nghĩ bài khá dễ và còn nhiều thời gian nên chưa ai quá lo lắng. Một số phần vì chưa được làm sớm nên đến gần deadline mới bắt đầu làm, lúc đó khối lượng công việc bị dồn lại.
+
+Khi gần đến hạn nộp, một số bạn cảm thấy mình đang làm nhiều hơn, trong khi một số bạn khác chưa hoàn thành phần của mình. Từ đó nhóm bắt đầu tranh luận về việc ai làm nhiều, ai làm ít và tại sao phần việc của mình chưa được hoàn thành
+
+Sau khi nói chuyện lại, nhóm nhận ra vấn đề chủ yếu là do mọi người quá chủ quan về thời gian ngay từ đầu, chứ không hẳn là vì thành viên nào không muốn làm bài. Vì vậy, nhóm thống nhất chia bài thành từng phần nhỏ, giao rõ người phụ trách và đặt deadline riêng cho từng phần.
+
+Qua lần này, nhóm rút ra kinh nghiệm là không nên nghĩ bài dễ và còn nhiều thời gian rồi để đến gần deadline mới làm. Làm sớm sẽ giúp nhóm có thời gian sửa bài và cũng hạn chế được những cuộc tranh cãi không cần thiết.
+
+Người viết phần này: Gia Bảo
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
 
