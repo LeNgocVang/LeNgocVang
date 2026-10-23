@@ -50,14 +50,13 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao [vấn đề xảy ra]? → …
-2. Vì sao [câu trả lời 1]? → …
-3. Vì sao [câu trả lời 2]? → …
-4. Vì sao [câu trả lời 3]? → …
-5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
+1. Vì sao [vấn đề xảy ra]? → vì thứ nhất nghĩ là bài dễ nên mới trì hoãn, thứ 2 là do không ai muốn đảm đương công việc khó nhất.
+2. Vì sao [câu trả lời 1]? → Vì lúc đầu nhóm nghĩ bài tập khá dễ và vẫn còn nhiều thời gian nên chưa làm ngay.
+3. Vì sao [câu trả lời 2]? → Vì nhóm không đặt deadline nhỏ cho từng phần mà chỉ quan tâm đến deadline cuối cùng của cả bài.
+4. Vì sao [câu trả lời 3]? → Vì nhóm nghĩ rằng có thể hoàn thành toàn bộ bài trong một khoảng thời gian ngắn khi bắt đầu làm
+5. Vì sao [câu trả lời 4]? → Vì nhóm chưa tính đến thời gian tìm tài liệu, trao đổi ý  *(nguyên nhân gốc):*Nhóm đánh giá thấp khối lượng công việc và quá chủ quan về thời gian, dẫn đến việc trì hoãn bắt đầu và dồn công việc vào sát deadline.)*
 
-*Người viết phần này: …*
-
+*Người viết phần này: Hoàng dương*
 ### 4. Ba giải pháp đã thử
 
 Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái thất bại.
