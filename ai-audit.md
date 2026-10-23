@@ -39,7 +39,7 @@ Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Đặt câu hỏi cụ thể, rõ ràng cho AI kèm theo ngữ cảnh và vai trò mong muốn để thu về câu trả lời sát nhất với nhu cầu.  |
+| **Hoài** | Luôn giữ thái độ hoài nghi, kiểm tra và đối chiếu thông tin AI đưa ra với các nguồn uy tín (sách giáo khoa, website chính thống) để phát hiện các lỗi sai hoặc thông tin nhầm lẫn. |
+| **Học** | Rút ra bài học về những điểm mạnh (như tổng hợp kiến thức) và hạn chế của AI (như đếm chữ, giải đố mẹo), từ đó điều chỉnh lại cách viết prompt chuẩn xác hơn. |
+| **Hành** | Lựa chọn, biên tập lại kiến thức đã kiểm chứng theo văn phong riêng và áp dụng trực tiếp vào bài làm, công việc thực tế chứ không sao chép nguyên văn. |
