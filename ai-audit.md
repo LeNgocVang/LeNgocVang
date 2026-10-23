@@ -8,13 +8,13 @@ title: Soi một công cụ AI
 > Chọn năm câu mà em **đã biết chắc đáp án**. Hỏi thứ mình không biết
 > thì không có gì để đối chiếu, và mọi câu trả lời đều nghe hợp lý như nhau.
 
-**Công cụ đã thử:** … · **Ngày thử:** …
+**Công cụ đã thử:** Chatgpt · **Ngày thử:** 23/10/2026
 
 ## Bảng kiểm thử năm câu
 
 | # | Câu tôi hỏi | Nó trả lời gì | Đúng / Sai | Sai ở chỗ nào | Tôi kiểm bằng nguồn nào | Bài học |
 |---|---|---|---|---|---|---|
-| 1 | … | … | … | … | … | … |
+| 1 | "Tác giả của bài thơ 'Sóng' là ai và sáng tác năm nào?" | Bài thơ 'Sóng' do nhà thơ Xuân Quỳnh sáng tác vào năm 1967 tại vùng biển Diêm Điền (Thái Bình)." | … | … | … | … |
 | 2 | … | … | … | … | … | … |
 | 3 | … | … | … | … | … | … |
 | 4 | … | … | … | … | … | … |
