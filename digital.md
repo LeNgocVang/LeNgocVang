@@ -31,7 +31,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
+| 1 | Vận hành thiết bị và phần mềm | Dạy lại được | Cài đặt, cấu hình và sử dụng thành thạo các hệ điều hành (Windows, Linux/Ubuntu, macOS); thiết lập môi trường lập trình (VS Code, JetBrains IDEs, Docker, Git); sửa lỗi phần cứng và mạng máy tính cơ bản. Có khả năng hướng dẫn bạn bè thiết lập môi trường làm việc. |
 | 2 | Năng lực thông tin và dữ liệu | … | … |
 | 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
 | 4 | Sáng tạo nội dung số | … | … |
