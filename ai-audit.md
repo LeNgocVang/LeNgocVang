@@ -33,7 +33,7 @@ Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
 4. Giao vai trò và cho ngữ cảnh cụ thể khi đặt câu hỏi: Luôn viết prompt theo dạng "Bạn là [vai trò], hãy giúp tôi [nhiệm vụ] theo định dạng [yêu cầu]" để nhận câu trả lời sát nhất.
 5. Không bao giờ sao chép nguyên văn (Copy-Paste) vào bài nộp: Luôn đọc lại, biên tập lại theo giọng văn của bản thân và xác minh tính chính xác trước khi sử dụng.
 
-**Quy tắc tôi thấy khó giữ nhất là số …**, vì …
+**Quy tắc tôi thấy khó giữ nhất là số 5, vì câu trả lời của AI tạo ra thường rất hoàn chỉnh, khiến tôi dễ bị cám dỗ muốn sao chép ngay để tiết kiệm thời gian thay vì dành thời gian biên tập lại theo văn phong cá nhân.
 
 ## Tôi đã làm việc với AI thế nào
 
