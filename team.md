@@ -102,15 +102,21 @@ Chờ đến sát deadline mới kiểm tra xem mọi người đã làm đến 
 
 ## 1. Cách chia việc
 
-…
+Đến khi bắt đầu làm mới phát hiện bài cần nhiều thời gian hơn dự kiến, lúc đó nhóm vừa phải chạy deadline vừa dễ xảy ra tranh cãi. Vì vậy, nên bắt đầu sớm và đặt deadline nội bộ trước deadline chính thức.
 
-*Người viết phần này: …*
+*Người viết phần này: Khánh Chi*
 
 ## 2. Cách đặt hạn cho nhau
 
-…
+Vì ban đầu nhóm có tâm lý nghĩ bài dễ và còn nhiều thời gian, nên để đến gần deadline mới bắt đầu làm. Sau đó, nhóm thống nhất đặt deadline từng phần nhỏ để tránh tình trạng dồn việc vào ngày sát deadline.
 
-*Người viết phần này: …*
+Ví dụ, nếu deadline chính thức là 20h thứ Sáu, nhóm sẽ đặt deadline nội bộ cho các phần vào thứ Tư hoặc thứ Năm. Như vậy, nhóm vẫn còn thời gian để kiểm tra, chỉnh sửa và ghép bài.
+
+Khi giao việc, deadline cần cụ thể, ví dụ:   "Phần tìm tài liệu hoàn thành trước 20h thứ Ba."
+thay vì:   "Làm sớm nhé."      
+Nếu thành viên nhận thấy không thể hoàn thành đúng hạn thì phải báo cho nhóm sớm để mọi người cùng điều chỉnh.   
+
+*Người viết phần này: Gia Bảo*
 
 ## 3. Cách họp
 
