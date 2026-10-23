@@ -24,11 +24,11 @@ Lê Ngọc Vàng-26820100032
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** …
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** "làm có cái video thôi à dễ quá mà thầy cho hẳn 2 tuần còn nhiều thời gian mà"
 
-**Vấn đề thật (sau khi bóc):** …
+**Vấn đề thật (sau khi bóc):** vì mặc định cho đề dễ và còn nhiều thời gian nên cả nhóm trì hoãn ở 80% khoảng thời gian đầu (chỉ nhắn tin bàn bạc qua loa, đợi người khác làm trước), dẫn đến việc dồn 90% khối lượng công việc vào 2 ngày cuối.
 
-*Người viết phần này: …*
+*Người viết phần này:Gia Bảo *
 
 ### 2. Cách đo và số liệu
 
