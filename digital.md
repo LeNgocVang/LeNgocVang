@@ -12,7 +12,13 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+Khi tìm kiếm họ và tên đầy đủ của bản thân trên các công cụ tìm kiếm (Google, Bing), tôi nhận được các kết quả sau:
+
+Các thông tin công khai xuất hiện: Trang cá nhân LinkedIn, tài khoản GitHub cá nhân, danh sách khen thưởng/kết quả học tập trên website nhà trường và danh sách tham gia một số cuộc thi lập trình (như Olympic Tin học, ICPC, Hackathon).
+
+Kiểm tra an toàn thông tin cá nhân: Không có các thông tin nhạy cảm như số điện thoại cá nhân, địa chỉ nhà riêng, CCCD hay tài khoản cá nhân khác.
+
+Đánh giá chung: Dấu chân số hiện tại có tính chuyên nghiệp cao, tập trung vào học thuật và phát triển kỹ năng nghề nghiệp trong ngành Khoa học Máy tính.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
