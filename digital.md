@@ -32,12 +32,12 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
 | 1 | Vận hành thiết bị và phần mềm | Dạy lại được | Cài đặt, cấu hình và sử dụng thành thạo các hệ điều hành (Windows, Linux/Ubuntu, macOS); thiết lập môi trường lập trình (VS Code, JetBrains IDEs, Docker, Git); sửa lỗi phần cứng và mạng máy tính cơ bản. Có khả năng hướng dẫn bạn bè thiết lập môi trường làm việc. |
-| 2 | Năng lực thông tin và dữ liệu | … | … |
-| 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
-| 4 | Sáng tạo nội dung số | … | … |
-| 5 | An ninh và an toàn trên không gian mạng | … | … |
-| 6 | Học tập và phát triển kỹ năng số | … | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | … | … |
+| 2 | Năng lực thông tin và dữ liệu | Dạy lại được | … |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Dạy lại được | … |
+| 4 | Sáng tạo nội dung số | Dạy lại được | … |
+| 5 | An ninh và an toàn trên không gian mạng | Dạy lại được | … |
+| 6 | Học tập và phát triển kỹ năng số | Dạy lại được | … |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Dạy lại được | … |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
