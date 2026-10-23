@@ -19,10 +19,12 @@ title: Nhật ký dùng AI
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. …
-2. …
-3. …
+1. Trích dẫn nguồn không tồn tại (Hallucination): Khi nhờ tìm tài liệu tham khảo, Gemini đưa ra tên bài báo và tác giả nghe rất thuyết phục nhưng thực tế không tồn tại trên các cơ sở dữ liệu học thuật. Tôi đã tự tìm nguồn chuẩn trên Google Scholar để thay thế.
+2. Nhầm lẫn mốc thời gian/số liệu lịch sử: Gemini trích dẫn sai năm ban hành một nghị định pháp lý trong bài phân tích. Tôi đã đối chiếu với văn bản gốc và sửa lại cho đúng.
+3. Giải thích sai công thức/logic tính toán: Trong bài tập xử lý số liệu, Gemini hướng dẫn sử dụng công thức bị sai logic dẫn đến kết quả bị lệch. Tôi đã tự tính toán thủ công, phát hiện điểm sai và điều chỉnh lại công thức chuẩn.
 
 ## Điều tôi học được về cách làm việc với nó
 
-…
+Luôn chủ động kiểm chứng thông tin (Fact-checking): Gemini tạo văn bản rất trôi chảy nhưng vẫn có thể đưa ra thông tin sai lệch, do đó không bao giờ tin tưởng 100% các số liệu hay trích dẫn mà không đối chiếu lại.
+Kỹ năng viết Prompt có ngữ cảnh rõ ràng: Đặt vai trò cụ thể cho AI (như "Đối tác phản biện" hay "Người kèm cặp"), cung cấp ngữ cảnh chi tiết và định dạng đầu ra giúp Gemini đưa ra câu trả lời chất lượng hơn rất nhiều.
+Coi AI là đối tác hỗ trợ thay vì làm thay: AI đóng vai trò gợi mở góc nhìn, phản biện ý tưởng và tối ưu thời gian; tư duy phản biện, văn phong cá nhân và trách nhiệm đối với nội dung cuối cùng vẫn thuộc về người học. 
