@@ -75,10 +75,19 @@ Kết luận: Ban đầu nhóm có tâm lý nghĩ bài không quá khó và còn
 Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 **Giữ:** …
-
+Bắt đầu làm bài sớm ngay sau khi nhận đề, không nên chờ đến gần deadline
+Chia bài thành những phần nhỏ và đặt deadline riêng cho từng phần.
+Thường xuyên cập nhật tiến độ để biết nhóm đang làm đến đâu.
+Dành thời gian trước deadline để kiểm tra, chỉnh sửa và ghép bài.
+Nếu gặp khó khăn hoặc không kịp tiến độ thì báo sớm cho cả nhóm để cùng xử lý.
 **Bỏ:** …
+Nghĩ bài dễ nên có thể làm sau.
+Chủ quan vì nghĩ deadline còn lâu.
+Dồn toàn bộ vào những ngày cuối/ gần hạn
+Chờ đến sát deadline mới kiểm tra xem mọi người đã làm đến đâu.
+Đổ lỗi cho nhau khi công việc bị chậm mà chưa tìm hiểu nguyên nhân.
 
-**Cảnh báo cụ thể cho nhóm khoá sau:** …
+**Cảnh báo cụ thể cho nhóm khoá sau:** Đừng chủ quan với những bài tập có deadline dài. Việc nghĩ bài dễ và còn nhiều thời gian rất dễ khiến nhóm trì hoãn. Đến khi bắt đầu làm mới phát hiện bài cần nhiều thời gian hơn dự kiến, lúc đó nhóm vừa phải chạy deadline vừa dễ xảy ra tranh cãi. Vì vậy, nên bắt đầu sớm và đặt deadline nội bộ trước deadline chính thức.
 
 *Người viết phần này: …*
 
