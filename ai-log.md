@@ -15,7 +15,7 @@ title: Nhật ký dùng AI
 | 3 | Google Gemini | Sinh bản nháp | Tóm tắt các bài đọc và viết nháp đoạn tổng quan tài liệu (literature review). | Trích dẫn lại chính xác tên tác giả/năm xuất bản, viết lại hoàn toàn theo văn phong và góc nhìn cá nhân. |
 | 4 | Google Gemini | Người kèm cặp | Giải thích các khái niệm phức tạp trong bài học và đưa ra bài tập tự luyện kèm đáp án. | Tổng hợp lại thành sơ đồ tư duy cá nhân, lọc ra các kiến thức trọng tâm cần nhớ cho kỳ thi. |
 | 5 | Google Gemini | Đối tác phản biện | Giả lập vai trò giám khảo để nhận xét bài làm, chấm điểm thử và gợi ý hướng cải thiện. | Tăng cường dẫn chứng số liệu thực tế, bổ sung các giải pháp mang tính khả thi cao hơn. |
-| 6 | … | … | … | … |
+| 6 | Google Gemini | Trợ lý tổng hợp & Chuẩn hóa | Tổng hợp toàn bộ nội dung học phần, rà soát lỗi chính tả và định dạng văn bản. | Kiểm tra lại toàn bộ danh mục trích dẫn, sắp xếp lại cấu trúc các mục theo đúng yêu cầu bài nộp cuối kỳ. |
 
 ## Ba lần nó nói sai mà tôi bắt được
 
