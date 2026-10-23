@@ -63,9 +63,9 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
-| … | … | … | … | … |
-| … | … | … | … | … |
-| … | … | … | … | … |
+| Bắt đầu làm bài ngay sau khi nhận đề thay vì chờ gần deadline | Cả nhóm | 2 ngày | Nhóm hoàn thành được phần lớn nội dung sớm hơn, nhưng vẫn có một số phần bị dồn vào cuối | Thành công một phần |
+| Chia bài thành từng phần nhỏ và đặt deadline riêng cho từng phần | Cả nhóm | 3 ngày | Các thành viên chủ động làm phần của mình hơn, hạn chế tình trạng đến sát deadline mớ bắt đầu | Thành công |
+| Dành thời gian cuối mỗi buổi để kiểm tra tiến độ và nhắc nhau những phần còn thiếu | Cả nhóm | 5 ngày | Nhóm phát hiện sớm những phần chưa hoàn thành và có thời gian sửa, ghép bài trước deadline | Thành công |
 
 *Người viết phần này: …*
 
