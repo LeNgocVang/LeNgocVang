@@ -7,7 +7,10 @@ title: Cẩm nang làm việc nhóm
 > **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
 > nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:** Byte/2 · **Thành viên:** Biện Thị Khánh Chi-26820120001
+Vũ Hoàng DƯơng-26820100003
+Phùng Gia Bảo-26820120003
+Lê Ngọc Vàng-26820100032
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
