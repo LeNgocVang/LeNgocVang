@@ -37,7 +37,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 **Cách đo: Nhóm theo dõi tiến độ trong 5 ngày bằng cách theo dõi số lượng task hoàn thành thực tế của 4 thành viên Số ngày đo: 5 ngày Số người tham gia đo: 4 người
 
 | Ngày | Số liệu đo được | Ghi chú |
-|Ngày 1(7/10)|0 task hoàn, 15 phút họp, tiến độ 0% |họp Cả nhóm chỉ nhắn tin đùn đẩy task và bàn lan man|
+|---|---|---|
 | … | … | … |
 | … | … | … |
 | … | … | … |
