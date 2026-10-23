@@ -38,9 +38,9 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| … | … | … |
-| … | … | … |
-| … | … | … |
+| Ngày 1(7/10) | 0 task hoàn, 15 phút họp, tiến độ 0% | họp Cả nhóm chỉ nhắn tin đùn đẩy task và bàn lan man |
+| Ngày 3(9/10) |2 task hoàn thành tiến độ 50%| Bảo hoàn thành slide và chuẩn bị được nội dung cần thuyết trình, 1 thành viên xin nộp task trễ |
+| Ngày 4(10/10) | full 4task tiến độ 80% (bị dồn task) | Vàng hoàn thành kịch bản và tìm được 1 số hình ảnh bổ trợ, DƯƠNG tóm tắt nội dung Chi hoàn thành bản video thô |
 
 *Người viết phần này: …*
 
