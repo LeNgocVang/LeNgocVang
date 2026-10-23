@@ -122,7 +122,21 @@ Nếu thành viên nhận thấy không thể hoàn thành đúng hạn thì ph�
 
 Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
 
-…
+…Nhóm họp trực tiếp hoặc online tùy tình hình.
+
+Tần suất: 2–3 lần/tuần khi đang làm dự án.
+
+Thời lượng: khoảng 15–30 phút/buổi.
+
+Nội dung: kiểm tra việc đã làm, vấn đề đang gặp và việc tiếp theo.
+
+Người điều phối: trưởng nhóm hoặc người được phân công.
+
+Người chốt kết luận: trưởng nhóm.
+
+Sau cuộc họp: thư ký ghi lại các quyết định quan trọng để mọi người cùng theo dõi.
+
+Mỗi cuộc họp không nên dành quá nhiều thời gian để kể lại những việc đã làm. Trọng tâm là việc gì đang bị kẹt và cần giải quyết như thế nào.
 
 *Người viết phần này: …*
 
