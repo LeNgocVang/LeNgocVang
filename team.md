@@ -66,8 +66,9 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | Bắt đầu làm bài ngay sau khi nhận đề thay vì chờ gần deadline | Cả nhóm | 2 ngày | Nhóm hoàn thành được phần lớn nội dung sớm hơn, nhưng vẫn có một số phần bị dồn vào cuối | Thành công một phần |
 | Chia bài thành từng phần nhỏ và đặt deadline riêng cho từng phần | Cả nhóm | 3 ngày | Các thành viên chủ động làm phần của mình hơn, hạn chế tình trạng đến sát deadline mớ bắt đầu | Thành công |
 | Dành thời gian cuối mỗi buổi để kiểm tra tiến độ và nhắc nhau những phần còn thiếu | Cả nhóm | 5 ngày | Nhóm phát hiện sớm những phần chưa hoàn thành và có thời gian sửa, ghép bài trước deadline | Thành công |
+Kết luận: Ban đầu nhóm có tâm lý nghĩ bài không quá khó và còn nhiều thời gian nên chưa ưu tiên làm ngay. Sau khi thử chia nhỏ công việc và đặt deadline cho từng phần, nhóm nhận ra việc bắt đầu sớm giúp giảm áp lực và hạn chế tranh cãi khi gần đến hạn nộp.
 
-*Người viết phần này: …*
+*Người viết phần này: Ngọc Vàng*
 
 ### 5. Cẩm nang cho người sau
 
