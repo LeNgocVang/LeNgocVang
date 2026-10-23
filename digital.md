@@ -41,9 +41,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
-2. …
-3. …
+1. Rà soát và làm sạch dấu chân số cá nhân: Chuyển các thông tin riêng tư trên mạng xã hội về chế độ cá nhân, xóa bỏ các bài viết/hình ảnh không còn phù hợp, đồng thời chuẩn hóa hồ sơ LinkedIn và GitHub cá nhân để xây dựng hình ảnh chuyên nghiệp.
+2. Nâng cao an toàn và bảo mật thông tin: Bật xác thực hai yếu tố (2FA) cho tất cả tài khoản quan trọng (Email, LMS, GitHub, Docker); sử dụng công cụ quản lý mật khẩu và kiểm tra kỹ các kho lưu trữ mã nguồn (repositories) để tránh vô tình công khai các API Key/Access Token.
+3. Thay đổi phương pháp sử dụng AI trong học tập: Chuyển từ thói quen yêu cầu AI viết sẵn mã nguồn/lời giải sang việc dùng AI như một người đồng hành/kèm cặp (Tutor) để giải thích bản chất thuật toán, tư vấn kiến trúc hệ thống và hướng dẫn tự tìm bug.
 
 ## Tôi đã làm việc với AI thế nào
 
@@ -51,7 +51,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Nhập yêu cầu thiết lập vai trò cho AI: "Hãy đóng vai một Mentor CNTT. Giúp tôi tự đánh giá bảng Khung năng lực số bằng cách đặt cho tôi các câu hỏi gợi mở từng nhóm kỹ năng, tuyệt đối không cho sẵn câu trả lời." |
+| **Hoài** | Suy ngẫm và trả lời các câu hỏi truy vấn sâu từ AI (ví dụ: khi AI hỏi "Tại sao bạn nghĩ mình đạt mức 'Dạy lại được' ở nhóm An ninh mạng, bạn đã từng hướng dẫn ai cấu hình bảo mật hoặc xử lý sự cố thực tế chưa?"). |
+| **Học** | Phân tích các câu trả lời của bản thân để nhận diện chính xác khoảng trống kiến thức/kỹ năng; học được cách tư duy phản biện và tự kiểm chứng bằng chứng thực tế thay vì đánh giá cảm tính. |
+| **Hành** | Hoàn thiện bảng tự kiểm năng lực số với đầy đủ minh chứng; bắt tay vào thực hiện 3 việc cần sửa trong tháng và áp dụng quy trình tương tác "Hỏi - Hoài - Học - Hành" này khi học các môn lập trình tiếp theo. |
