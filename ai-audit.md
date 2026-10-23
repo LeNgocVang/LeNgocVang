@@ -14,8 +14,8 @@ title: Soi một công cụ AI
 
 | # | Câu tôi hỏi | Nó trả lời gì | Đúng / Sai | Sai ở chỗ nào | Tôi kiểm bằng nguồn nào | Bài học |
 |---|---|---|---|---|---|---|
-| 1 | "Tác giả của bài thơ 'Sóng' là ai và sáng tác năm nào?" | Bài thơ 'Sóng' do nhà thơ Xuân Quỳnh sáng tác vào năm 1967 tại vùng biển Diêm Điền (Thái Bình)." | … | … | … | … |
-| 2 | … | … | … | … | … | … |
+| 1 | "Tác giả của bài thơ 'Sóng' là ai và sáng tác năm nào?" | Bài thơ 'Sóng' do nhà thơ Xuân Quỳnh sáng tác vào năm 1967 tại vùng biển Diêm Điền (Thái Bình)." | Đúng | không sai | SGK Ngữ văn 12 (Tập 1) | AI ghi nhớ thông tin văn học kinh điển trong sách giáo khoa rất chính xác. |
+| 2 | "Trong tiếng Việt, từ 'mẹ' có bao nhiêu chữ 'r'?" | "Trong từ 'mẹ' có 1 chữ 'r'." | sai | Từ "mẹ" không chứa chữ "r" nào. AI bị nhầm do cơ chế chia tách từ (tokenization). | Tự quan sát và kiểm tra chữ cái thực tế | AI rất dở trong các bài toán đếm chữ cái, ký tự hay xử lý chuỗi tiếng Việt. |
 | 3 | … | … | … | … | … | … |
 | 4 | … | … | … | … | … | … |
 | 5 | … | … | … | … | … | … |
