@@ -175,14 +175,14 @@ Qua lần này, nhóm rút ra kinh nghiệm là không nên nghĩ bài dễ và 
 Người viết phần này: Gia Bảo
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
-
+• Luôn giữ thái độ hoài nghi, đối chiếu và kiểm tra lại toàn bộ thông tin, số liệu do AI cung cấp với tài liệu chính thống.
 …
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Nhóm đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | • Đặt đề bài (prompt) cụ thể và chi tiết để AI gợi ý dàn ý bài tập, danh sách công việc và lộ trình chia deadline hợp lý cho nhóm. |
+| **Hoài** | • Luôn giữ thái độ hoài nghi, đối chiếu và kiểm tra lại toàn bộ thông tin, số liệu do AI cung cấp với tài liệu chính thống. |
+| **Học** | • Chắt lọc những ý tưởng hay, cấu trúc nội dung logic và cách diễn đạt mạch lạc từ phản hồi của AI. |
+| **Hành** | • Bắt tay vào phân công nhiệm vụ chi tiết cho từng thành viên dựa trên khung bài đã thống nhất. |
