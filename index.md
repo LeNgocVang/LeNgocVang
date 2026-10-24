@@ -15,7 +15,8 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 - … việc đã làm số 3, kèm một con số → [digital.md](digital.md)
 - … việc đã làm số 3, kèm một con số → [reflection.md](reflection.md)
-- … việc đã làm số 3, kèm một con số → [
+- … việc đã làm số 3, kèm một con số → [team.mdƯ](team.md)
+- - … việc đã làm số 3, kèm một con số → [
 …@… · <https://…github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
