@@ -10,13 +10,13 @@ title: Hồ sơ nhập ngành
 
 Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 
-- … việc đã làm số 1, kèm một con số → [career.md](career.md)
-- … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
-- … việc đã làm số 3, kèm một con số → [digital.md](digital.md)
-- … việc đã làm số 3, kèm một con số → [reflection.md](reflection.md)
-- … việc đã làm số 3, kèm một con số → [team.mdƯ](team.md)
-- - … việc đã làm số 3, kèm một con số → [
+-  Chân dung nghề của tôi1, kèm một con số → [career.md](career.md)
+-  Bản đồ học tập bốn năm 2, kèm một con số → [roadmap.md](roadmap.md)
+-  Soi một công cụ AI 3, kèm một con số → [ai-audit.md](ai-audit.md)
+-  Dấu chân số của tôi 4, kèm một con số → [digital.md](digital.md)
+-  Nhìn lại học kỳ 5, kèm một con số → [reflection.md](reflection.md)
+-  Cẩm nang làm việc nhóm 6, kèm một con số → [team.mdƯ](team.md)
+- Nhật ký dùng AI — cả học phần 7, kèm một con số → [ai-log.md](ai-log.md)
 …@… · <https://…github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
