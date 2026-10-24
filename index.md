@@ -13,7 +13,7 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 - … việc đã làm số 1, kèm một con số → [career.md](career.md)
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
-
+- … việc đã làm số 3, kèm một con số → [digital.md](
 …@… · <https://…github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
